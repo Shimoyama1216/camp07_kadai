@@ -1,0 +1,403 @@
+.box1a {
+  float: left;
+  width: 100px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+  background: #cde4ff;
+}
+.box1a p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box2a {
+  float: left;
+  width: 330px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+}
+.box2a p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box1b {
+  clear: both;
+  float: left;
+  width: 100px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+  background: #cde4ff;
+}
+.box1b p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box3a {
+  float: left;
+  width: 150px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #161618;
+}
+.box3a p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box3b {
+  float: left;
+  width: 146px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  background: #161618;
+}
+
+.box4a {
+  float: left;
+  width: 100px;
+  height: 11px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  border-bottom: transparent;
+  color: #161618;
+}
+.box4a p {
+  margin: 1em;
+  padding: 0;
+  text-align: center;
+}
+
+.box3b2 {
+  float: left;
+  width: 146px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #161618;
+}
+.box3b2 p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box4a2 {
+  float: left;
+  width: 100px;
+  height: 11px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  border-top: transparent;
+  color: #161618;
+}
+
+.box5a {
+  float: left;
+  width: 33px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #161618;
+}
+.box5a p {
+  margin: 0;
+  padding: 0;
+  font-size: x-small;
+  text-align: center;
+}
+
+.box1c {
+  float: left;
+  width: 100px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+  background: #161618;
+}
+
+.box4b {
+  float: left;
+  width: 100px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #161618;
+}
+
+.box4b p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box6 {
+  clear: both;
+  float: left;
+  width: 464px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+}
+.box6 p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box7a {
+  float: left;
+  width: 166px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+  background: #cde4ff;
+}
+.box7a p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box7b {
+  float: left;
+  width: 168px;
+  height: 11px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+  border-bottom: transparent;
+}
+.box7b p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.box7c {
+  float: left;
+  width: 167px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  border-right: transparent;
+  border-bottom: transparent;
+}
+
+.box7b2 {
+  float: left;
+  width: 169px;
+  height: 12px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+  border-top: transparent;
+  border-left: transparent;
+  border-bottom: transparent;
+}
+
+.box8 {
+  float: left;
+  width: 56px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+  background: #cde4ff;
+}
+.box8 {
+  margin: 0;
+  padding-top: 1px 0 0;
+  text-align: center;
+}
+
+.box9 {
+  float: left;
+  width: 56px;
+  height: 10px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+}
+.box9 {
+  margin: 0;
+  padding-top: 1px 0 0;
+  text-align: center;
+}
+
+.box7c2 {
+  float: left;
+  width: 167px;
+  height: 11px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  border-top: transparent;
+  border-right: transparent;
+  border-bottom: transparent;
+}
+
+.box7b3 {
+  float: left;
+  width: 169px;
+  height: 12px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+  border-top: transparent;
+  border-left: transparent;
+  border-bottom: transparent;
+}
+
+.box7c3 {
+  float: left;
+  width: 167px;
+  height: 11px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  border-top: transparent;
+  border-right: transparent;
+}
+
+.box7b4 {
+  float: left;
+  width: 169px;
+  height: 11px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  border: solid 1px #000000;
+  color: #2c2c2f;
+  border-top: transparent;
+  border-left: transparent;
+}
+
+.talk1 {
+  clear: both;
+  position: relative;
+  padding: 0.5em 0.7em;
+  margin: 2em 0;
+  background: #e6f4ff;
+  color: #5c98d4;
+  font-weight: bold;
+}
+.talk1:after {
+  position: absolute;
+  content: "";
+  top: 100%;
+  left: 30px;
+  border: 15px solid transparent;
+  border-top: 15px solid #e6f4ff;
+  width: 0;
+  height: 0;
+}
+.talk1 p {
+  margin: 0;
+  padding: 0;
+}
+
+.swiper-container {
+  padding: 30px 0 50px;
+  background: #eeeeee;
+}
+
+.s-three-wrap {
+  position: relative;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.s-three-text,
+.s-three-sub,
+.s-three-button {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  text-align: left;
+  color: white;
+}
+
+.s-three-text {
+  top: 5%;
+  font-size: 2vw;
+}
+
+.s-three-sub {
+  top: 52%;
+  font-size: 2vw;
+}
+
+.s-three-button {
+  top: 65%;
+  left: calc(50% - 75px);
+  display: block;
+  width: 150px;
+  padding: 2px 10px;
+  box-sizing: border-box;
+  background: #535353;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+.s-three-button:hover {
+  background: white;
+  color: #1b1b1b;
+}
+
+.swiper-slide-active .s-three-text {
+  animation: slideFromRight 0.5s ease 0s 1 normal;
+}
+.swiper-slide-active .s-three-sub {
+  animation: slideFromRightSub 1s ease 0s 1 normal;
+}
+.swiper-slide-active .s-three-button {
+  animation: slideFromRightBtn 1.5s ease 0s 1 normal;
+}
+
+@keyframes slideFromRightBtn {
+  0%,
+  65% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
